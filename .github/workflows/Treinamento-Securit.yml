@@ -39,5 +39,4 @@ jobs:
           appname: 'NodeGoat - Felix'
           createprofile: true
           filepath: 'veracode.zip'
-          deleteIncompleteScan: false
           version: ${{ github.run_id }}
